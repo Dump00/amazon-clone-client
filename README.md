@@ -121,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Twitter - [@so_vis](https://twitter.com/so_vis)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/sovisrushain/Amazon_Clone.git](https://github.com/sovisrushain/Amazon_Clone.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
