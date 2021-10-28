@@ -35,10 +35,9 @@
 ## About The Project
 
 
-This is a simple client clone of the Amazon site. Amazon is a famous e-commerce site. You can visit Amazon by using,
-```
-https://www.amazon.com/
-```
+This is a simple front-end clone of the Amazon site. Although this is a clone all the features are not exactly same. Amazon is a famous e-commerce site. You can visit and take a look the original Amazon site by using:
+
+[https://www.amazon.com/](https://www.amazon.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -58,8 +57,8 @@ https://www.amazon.com/
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Please follow given instructions for setting up this project locally.
+Get a local copy have a fun.
 
 
 ### Installation
